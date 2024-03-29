@@ -1,4 +1,6 @@
-Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Luwam! Welcome to my GitHub!
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!+I+am+Luwam;)](https://git.io/typing-svg)
+Welcome to my GitHub!  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
 Technologies I've worked with: 
 [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
