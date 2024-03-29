@@ -8,10 +8,10 @@ Technologies I've worked with:
                     </p>
  
 
-<div width="100%" align="center"><a href="https://github.com/CodeWithLuwam/weather-report" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithLuwam&repo=weather-report&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/CodeWithLuwam/Mybeesknees" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithLuwam&repo=Mybeesknees&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/CodeWithLuwam/weather-report" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithLuwam&repo=weather-report&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/CodeWithLuwam/Mybeesknees" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithLuwam&repo=Mybeesknees&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
 <a href="https://github.com/CodeWithLuwam/task-list-api" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithLuwam&repo=task-list-api&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/CodeWithLuwam/BeesKnees-FE" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithLuwam&repo=BeesKnees-FE&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/CodeWithLuwam/BeesKnees-FE" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithLuwam&repo=BeesKnees-FE&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 
 
