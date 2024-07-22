@@ -11,7 +11,7 @@ class Luwam(SoftwareEngineer):
     def __init__(self):
         self.name = 'Luwam G.'
         self.education = [ 'Ada Developers Academy']
-        self.hobbies = [ 'Barbecuing', 'Travel', 'Drawing', 'Functional Exercise', 'Family Time', 'Learning Languages']
+        self.hobbies = [ 'Barbecuing', 'Travel', 'Drawing', 'Functional exercise', 'Family time', 'Learning languages']
         self.job_status = ['Open to Work']
 
     def current_location(self):
@@ -21,7 +21,7 @@ class Luwam(SoftwareEngineer):
         return {
             'studying': ['TypeScript', 'JavaScript'],
             'reading': ['Secrets of the JavaScript Ninja', 'Advanced React', 'Grokking Algorithms'],
-            'projects': ['Chrome extension']
+            'projects': ['Chrome Extension']
         }
 
     def ask_me_about(self):
