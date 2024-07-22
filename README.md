@@ -3,6 +3,36 @@
 <br>
 Welcome to my GitHub!  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
+
+<div align="center"> A little about me in a language we all speak, code! </div>
+
+```python
+class Luwam(SoftwareEngineer):
+    def __init__(self):
+        self.name = 'Luwam G.'
+        self.education = [ 'Ada Developers Academy']
+        self.hobbies = [ 'Barbecuing', 'Travel', 'Drawing', 'Functional Exercise', 'Family Time', 'Learning Languages']
+        self.job_status = ['Open to Work']
+
+    def current_location(self):
+        return 'San Diego, California'
+
+    def what_I_am_working_on(self):
+        return {
+            'studying': ['TypeScript', 'JavaScript'],
+            'reading': ['Secrets of the JavaScript Ninja', 'Advanced React', 'Grokking Algorithms'],
+            'projects': ['Chrome extension']
+        }
+
+    def ask_me_about(self):
+        return [
+            'My projects!',
+            'Ada Developers',
+            'Two ingridients: plantin and egg pancakes',
+            'My passions!'
+        ]
+
+```
 Technologies I've worked with: 
 [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ============================================================================================================================= 
