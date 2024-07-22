@@ -28,7 +28,7 @@ class Luwam(SoftwareEngineer):
         return [
             'My projects!',
             'Ada Developers',
-            'Two ingridients: plantin and egg pancakes',
+            'Plantin and egg pancakes',
             'My passions!'
         ]
 ```
