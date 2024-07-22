@@ -1,7 +1,7 @@
+
+Welcome to my GitHub!  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
  
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!+I+am+Luwam.;)](https://git.io/typing-svg)
-<br>
-Welcome to my GitHub!  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
 
 <div align="center"> A little about me in a language we all speak, code! </div>
