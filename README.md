@@ -10,8 +10,8 @@ Welcome to my GitHub!  ![](https://user-images.githubusercontent.com/18350557/17
 class Luwam(SoftwareEngineer):
     def __init__(self):
         self.name = 'Luwam G.'
-        self.education = [ 'Ada Developers Academy']
-        self.hobbies = [ 'Barbecuing', 'Travel', 'Drawing', 'Functional exercise', 'Family time', 'Learning languages']
+        self.education = ['Ada Developers Academy']
+        self.hobbies = ['Barbecuing', 'Travel', 'Drawing', 'Functional exercise', 'Family time', 'Learning languages']
         self.job_status = ['Open to Work']
 
     def current_location(self):
